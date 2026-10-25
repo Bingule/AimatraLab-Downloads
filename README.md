@@ -14,3 +14,15 @@ New V1 licenses apply from v1.2.4 onward on the same computer. v1.2.3 and unmark
 V1 新授权从 v1.2.4 起同机后续 V1 共用；v1.2.3 及旧格式码需人工重新签发。官网入口仍需登录，软件运行仍需本机授权。
 
 Historical releases and assets are retained unchanged. / 历史 Release 与旧安装包保留不变。
+
+## AimatraLab Pourbaix Studio 1.2.0 — Offline bilingual licensed edition
+
+[Product, examples and protected website downloads / 产品介绍、示例与官网下载](https://aimatralab.com/tools/pourbaix-studio/) · [GitHub Release](https://github.com/Bingule/AimatraLab-Downloads/releases/tag/pourbaix-studio-v1.2.0-licensed-20261025)
+
+`AimatraLab-Pourbaix-1.2.0-licensed-windows-x64.zip` · Windows x64 · 70791204 bytes
+
+SHA-256: `794844bc16f2811782346b1567434071785156fd3ed0a3fe649a6ed465b5f0ef`
+
+Single-element E–H–O potential–pH diagrams with traceable sources and PNG/SVG/CSV/JSON export. One offline executable supports Chinese/English. New calculations require this product’s machine-bound license; validity follows the issued entitlement. Website downloads retain sign-in. Historical packages remain available in their original releases.
+
+单元素水体系电位–pH 图，支持来源追溯与规范导出。单个离线程序支持中英文；新计算需本产品机器绑定授权，期限以签发内容为准。官网继续要求登录下载，旧包保留。
