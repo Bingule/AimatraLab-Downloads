@@ -1,6 +1,24 @@
 # AimatraLab-Downloads
 Public client downloads only. AimatraLab source repositories are private.
 
+
+## Alloy Builder V1.1.0 — Licensed download / 授权下载版
+
+<img src="https://aimatralab.com/tools/alloy-builder/icon.png" width="48" height="48" alt="Alloy Builder" />
+
+[Official page: V2 preview and separate V1 download / 官网：V2 展示与 V1 独立下载](https://aimatralab.com/tools/alloy-builder/) · [V1.1.0 release / 完整客户包](https://github.com/Bingule/AimatraLab-Downloads/releases/tag/alloy-builder-v1.1.0-licensed-20261026)
+
+**V2.0.2 is showcase only, not open for download. This download is V1.1.0. / V2.0.2 仅展示，暂不开放下载；此处下载为 V1.1.0。**
+
+`AimatraLab-Alloy-Builder-1.1.0-win-x64.zip` · Windows x64 · 253812593 bytes
+
+SHA-256: `0f237b6b809a6507ff56a014d428d86fbee8c532a4eade4c0c71d5c82c9cf835`
+
+V1 provides native SCRAPs all-site FCC/BCC/HCP or POSCAR occupation search, 3D views, objective history, SRO and structure/data export. Website downloads require sign-in; new calculations require this product’s machine-bound signed JSON licence. No separate Python installation is needed. V2’s selected-sublattice method and updated viewer are not included in V1. These methods do not calculate energy, relax structures or certify material properties/stability.
+
+V1 提供原生 SCRAPs 全位点 FCC/BCC/HCP 或 POSCAR 占位搜索、三维查看、目标历史、SRO 和结构/数据导出。官网登录下载，计算需本产品机器绑定的签名 JSON 授权，无需另装 Python。V1 不包含 V2 子晶格方法和新版查看器；当前方法不计算能量、不弛豫，也不验证物性或稳定性。
+
+
 ## XRefine v1.2.4 — Current revision / 当前修订
 
 [Official download and licensing / 官网下载与授权](https://aimatralab.com/tools/xrefine/#version-history) · [20261026 runtime repair / 运行库修复包](https://github.com/Bingule/AimatraLab-Downloads/releases/tag/xrefine-v1.2.4-20261026-runtime-fix)
