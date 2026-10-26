@@ -1,6 +1,17 @@
 # AimatraLab-Downloads
 Public client downloads only. AimatraLab source repositories are private.
 
+## XRefine V1.2.5 — separate project-workflow repair
+
+[Download the complete 1.2.5 Windows x64 archive](https://github.com/Bingule/AimatraLab-Downloads/releases/tag/xrefine-v1.2.5-20261026) · [Official version history](https://aimatralab.com/tools/xrefine/#version-history)
+
+修复同名项目首次覆盖流程，启用 Windows 原生文件选择配置（可通过地址栏输入路径）。1.2.4 原包和链接保留。继续使用从 v1.2.4 起的同机有效 V1 授权，升级不重置试用；V2/V3 不变。原生窗口实际交互验收待完成，本次不包含远端结构黑屏修复。
+
+Fixes the first-confirmation project-overwrite workflow and enables native Windows file-dialog configuration with address-bar path entry. The original 1.2.4 package and links remain available. Valid same-machine V1 licenses from v1.2.4 retain their terms; no trial reset or V2/V3 change. Actual native-dialog interaction acceptance remains pending. This release does not fix the reported remote-machine black preview.
+
+ZIP: 513,212,976 bytes. SHA-256: 6ff9e4719ba029ccab8175f1cd74228a38433075637ae0539eff16a431a03c1d
+
+
 
 ## Alloy Builder V1.1.0 — Licensed download / 授权下载版
 
