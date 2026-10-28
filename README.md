@@ -1,5 +1,14 @@
-# AimatraLab-Downloads
-Public client downloads only. AimatraLab source repositories are private.
+# AimatraLab — Scientific Software Downloads / 科研软件下载
+
+**[AimatraLab official website / AimatraLab 官网](https://aimatralab.com/)**
+
+AimatraLab brings together scientific software, online analysis, AI research skills and data resources for materials research. This is its official public client-download repository.
+
+AimatraLab 汇集科学软件、在线分析、AI 研究 Skill 与数据资源，连接材料研究工作流。这里是 AimatraLab 的官方客户端分发仓库。
+
+[Research tools / 科研工具](https://aimatralab.com/tools/) · [Community / 互动社区](https://aimatralab.com/community/)
+
+Public client downloads only. AimatraLab source repositories are private. See each product page for current availability and activation requirements.
 
 ## XRefine V1.2.5 — separate project-workflow repair
 
